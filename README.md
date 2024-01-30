@@ -7,7 +7,11 @@ The application uses the OpenWeatherMap API to get updated weather information b
 
 ## Usage
 
-- Obtain an API key from OpenWeatherMap.
+- Clone the repository
 - Run the Node.js server using the command: `node server.js`
 - Navigate to the webpage on localhost:8000.
 - Enter a zip code and your feelings, then click on Generate to view the most recent entry alongside the current temperature.
+
+### Note
+
+package-lock.json file and node_modules folders have been left out.
